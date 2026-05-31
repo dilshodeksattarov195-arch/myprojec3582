@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailralculate",
+        "uuid": 10359144,
+        "checksum": "tspfoc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
